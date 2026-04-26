@@ -17,3 +17,18 @@
     height: 25rem;
     /* This is the equivalent of h-100 */
 }
+
+.custom-h-108 {
+    height: 27rem;
+    /* This is the equivalent of h-108 */
+}
+
+.icon-blue {
+    /* Generated filter for a specific blue color */
+    filter: invert(42%) sepia(93%) saturate(1352%) hue-rotate(200deg) brightness(90%) contrast(90%);
+}
+
+.dark\:icon-blue {
+    /* Generated filter for a specific blue color */
+    filter: invert(42%) sepia(93%) saturate(1352%) hue-rotate(200deg) brightness(90%) contrast(90%);
+}

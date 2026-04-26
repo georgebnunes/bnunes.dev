@@ -1,8 +1,9 @@
-<section class="custom-h-100 w-full mb-10 flex flex-col sm:flex-row">
-    <div class="flex-1 flex items-center justify-center custom-h-96 w-full overflow-hidden m-3">
+<section
+    class="bg-secondary-500 dark:bg-neutral custom-h-108 w-full mb-10 p-4 flex flex-col sm:flex-row border border-neutral-900 dark:border-neutral-500 rounded-lg">
+    <div class="flex-1 flex items-center justify-center custom-h-96 w-full overflow-hidden">
         <img src="/george.jpeg" alt="George Nunes" class="h-full rounded w-auto object-contain">
     </div>
-    <div class="bg-blue-500 flex-2 flex flex-col items-center justify-center text-center md:text-left p-5">
+    <div class="flex-2 flex flex-col items-center justify-center text-center md:text-left">
         <h1 class="font-extrabold text-gray-900 tracking-tight mb-6 mt-12" style="font-size: 2rem">
             Hi there, I'm George! 👋
         </h1>
@@ -10,5 +11,19 @@
             I'm an engineer that basically makes sure that everything works in the backstage after you open a page
             or click a button.
         </p>
+        <div class="w-full flex justify-center">
+            <a href="https://github.com/georgebnunes" target="_blank"
+                class="flex-1 p-4 hover:text-primary-500 dark:hover:text-primary-400">
+                {{ partial "icon.html" "github" }}
+            </a>
+            <a href="https://linkedin.com/in/georgebnunes" target="_blank"
+                class="flex-1 p-4 hover:text-primary-500 dark:hover:text-primary-400">
+                {{ partial "icon.html" "linkedin" }}
+            </a>
+            <a href="mailto:georgebnunes@gmail.com"
+                class="flex-1 p-4 hover:text-primary-500 dark:hover:text-primary-400">
+                {{ partial "icon.html" "email" }}
+            </a>
+        </div>
     </div>
 </section>
