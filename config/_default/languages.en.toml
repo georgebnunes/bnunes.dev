@@ -3,19 +3,18 @@ languageName = "English"
 languageDirection = "ltr"
 weight = 1
 
-title = "bnunes.dev | software engineer, java, go, aws, ci/cd, ai & more"
+title = "bnunes.dev | software engineer, java, go, sql, aws, ci/cd"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
   dateFormat = "2 January 2006"
-
-  # mainSections = ["section1", "section2"]
+  mainSections = ["section1", "section2"]
   # description = "My awesome website"
 
 [params.author]
   name = "George B. Nunes"
   image = "img/authorr.png"
-  headline = "Making sure that what happens behind of a click of a button works"
+  headline = "Backend Software Engineer | Making sure that what happens behind of a click of a button works"
   bio = "I'm a software engineer with a passion for building great backend APIs."
   links = [
     { email = "mailto:georgebnunes@gmail.com" },
