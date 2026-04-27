@@ -1,15 +1,18 @@
 {{ partial "home/hero.html" . }}
 
 <section class="w-full p-4 flex flex-col justify-center items-center gray dark:gray rounded-md">
+
+    <h2 class="text-xl md:!text-2xl mb-8">Hello recruiters! If you're interested, here is my resume</h2>
+
     <div class="w-24">
         <div class="w-14 h-14">
             <img src="/thumb_resume.png" alt="Resume Thumbnail" class="w-full h-auto">
         </div>
     </div>
 
-    <div class="mt-8">
-        <a href="/resume2026.pdf" download
-            class="bg-primary-600 p-4 !rounded-md py-2 hover:!bg-primary-500 dark:hover:!bg-primary-800 !text-neutral">
+    <div class="mt-8 flex flex-col">
+        <a href="/resume2026.pdf" download target="_blank" rel="noopener noreferrer"
+            class="bg-primary-600 p-4 !rounded-md py-2 hover:!bg-primary-500 dark:hover:!bg-primary-800 !text-neutral mx-auto">
             Download Resume
         </a>
     </div>
