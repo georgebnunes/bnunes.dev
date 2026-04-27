@@ -23,6 +23,56 @@
     /* This is the equivalent of h-108 */
 }
 
+.custom-h-112 {
+    height: 28rem;
+    /* This is the equivalent of h-112 */
+}
+
+.custom-h-128 {
+    height: 32rem;
+    /* This is the equivalent of h-128 */
+}
+
+.custom-h-144 {
+    height: 36rem;
+    /* This is the equivalent of h-144 */
+}
+
+.custom-h-160 {
+    height: 40rem;
+    /* This is the equivalent of h-160 */
+}
+
+.custom-h-168 {
+    height: 42rem;
+    /* This is the equivalent of h-168 */
+}
+
+.custom-h-176 {
+    height: 44rem;
+    /* This is the equivalent of h-176 */
+}
+
+.custom-h-184 {
+    height: 46rem;
+    /* This is the equivalent of h-184 */
+}
+
+.custom-h-192 {
+    height: 48rem;
+    /* This is the equivalent of h-192 */
+}
+
+.custom-h-224 {
+    height: 56rem;
+    /* This is the equivalent of h-224 */
+}
+
+.custom-h-256 {
+    height: 64rem;
+    /* This is the equivalent of h-256 */
+}
+
 .icon-blue {
     /* Generated filter for a specific blue color */
     filter: invert(42%) sepia(93%) saturate(1352%) hue-rotate(200deg) brightness(90%) contrast(90%);
@@ -33,7 +83,7 @@
     filter: invert(42%) sepia(93%) saturate(1352%) hue-rotate(200deg) brightness(90%) contrast(90%);
 }
 
-.gray{
+.gray {
     background-color: #dfe6e9;
 }
 
@@ -67,4 +117,14 @@
     line-height: 1.3;
     color: theme('colors.gray.900');
     /* Default color, can be overridden by theme */
+}
+
+.hero-height {
+    height: 27rem;
+}
+
+@media (max-width: 768px) {
+    .hero-height {
+        height: 42rem;
+    }
 }
