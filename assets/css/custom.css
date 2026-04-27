@@ -28,9 +28,17 @@
     filter: invert(42%) sepia(93%) saturate(1352%) hue-rotate(200deg) brightness(90%) contrast(90%);
 }
 
-.dark\:icon-blue {
+.dark:icon-blue {
     /* Generated filter for a specific blue color */
     filter: invert(42%) sepia(93%) saturate(1352%) hue-rotate(200deg) brightness(90%) contrast(90%);
+}
+
+.gray{
+    background-color: #dfe6e9;
+}
+
+.gray:is(.dark *) {
+    background-color: #2d3436;
 }
 
 @keyframes border-cycle {

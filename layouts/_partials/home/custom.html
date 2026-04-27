@@ -1,5 +1,16 @@
 {{ partial "home/hero.html" . }}
 
-{{ partial "home/techs.html" . }}
+<section class="w-full p-4 flex flex-col justify-center items-center gray dark:gray rounded-md">
+    <div class="w-24">
+        <div class="w-14 h-14">
+            <img src="/thumb_resume.png" alt="Resume Thumbnail" class="w-full h-auto">
+        </div>
+    </div>
 
-{{ partial "home/certifications.html" . }}
+    <div class="mt-8">
+        <a href="/resume2026.pdf" download
+            class="bg-primary-600 p-4 !rounded-md py-2 hover:!bg-primary-500 dark:hover:!bg-primary-800 !text-neutral">
+            Download Resume
+        </a>
+    </div>
+</section>
