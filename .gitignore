@@ -34,5 +34,6 @@ go.work.sum
 
 # Hugo
 public/
+dist/
 .hugo_build_cache/
 resources/_gen/*
