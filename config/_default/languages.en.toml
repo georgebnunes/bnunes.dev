@@ -3,7 +3,7 @@ languageName = "English"
 languageDirection = "ltr"
 weight = 1
 
-title = "George B. Nunes | software engineer, java, go, sql, aws, ci/cd"
+title = "George Nunes | software engineer, java, go, sql, aws, ci/cd"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
