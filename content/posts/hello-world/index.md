@@ -1,6 +1,6 @@
 ---
 date: '2026-04-27'
-lastmod: 2026-04-28
+lastmod: 2026-05-04
 draft: false
 title: 'Hello World'
 description: "First thoughts on building a personal blog."
@@ -12,8 +12,19 @@ tags: ["announcements"]
 ## Hi everyone!
 This is my first post on my blog. People say that you only learn when you teach something to others. 
 
+### The HUGO way
+
+I know there are lots of other bloging tools out there, like Jekyll, Wordpress, Ghost, etc.
+
+I decided to create this blog using HUGO because it is a static site generator written in Go and it is very fast. 
+
+I'm still learning how to use it and I'm sure there are lots of other features I can use to make my blog better. For now, I'm just happy with the result.
+
+---
+
 ## A new journey begins!
-I decided to create this blog just because I am about to start a new learning path on System Design and Software Architecture and I want to share my journey with you. My challenges, my achievements, the projects I'll be working on, etc. 
+
+I am about to start a new learning path on System Design and Software Architecture and I want to share my journey with you my challenges, my achievements, the projects I'll be working on, etc. 
 
 Along the way I may share some other things that I find interesting and worth sharing.
 
