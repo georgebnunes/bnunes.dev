@@ -33,3 +33,6 @@ summaryLength = 0
 
 [build]
   writeStats = true
+
+[permalinks]
+  posts = "/posts/:slug/"
