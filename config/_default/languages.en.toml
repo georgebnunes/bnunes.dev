@@ -12,9 +12,9 @@ title = "George Nunes | software engineer, java, go, sql, aws, ci/cd"
   # description = "My awesome website"
 
 [params.author]
-  name = "George B. Nunes"
+  name = "George Nunes"
   image = "img/authorr.png"
-  headline = "Backend Software Engineer | Making sure that what happens behind of a click of a button works"
+  headline = "George Bentes Nunes is a Backend Software Engineer that makes sure what happens behind of a click of a button works"
   bio = "I'm a software engineer with a passion for building great backend APIs."
   links = [
     { email = "mailto:georgebnunes@gmail.com" },
