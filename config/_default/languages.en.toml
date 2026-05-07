@@ -14,12 +14,13 @@ title = "George Nunes | software engineer, java, go, sql, aws, ci/cd"
 [params.author]
   name = "George Nunes"
   image = "img/authorr.png"
-  headline = "George Bentes Nunes is a Backend Software Engineer that makes sure what happens behind of a click of a button works"
-  bio = "I'm a software engineer with a passion for building great backend APIs."
+  headline = "Backend Software Engineer that makes sure what happens behind of a click of a button works"
+  bio = "George Bentes Nunes is a Backend Software Engineer based in Curitiba, Brazil. He has a passion for building and monitoring scalable backend APIs and systems."
   links = [
     { email = "mailto:georgebnunes@gmail.com" },
     { github = "https://github.com/georgebnunes" },
     { linkedin = "https://linkedin.com/in/georgebnunes" },
+    { instagram = "https://instagram.com/georgebnunes" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
@@ -35,7 +36,6 @@ title = "George Nunes | software engineer, java, go, sql, aws, ci/cd"
   #   { google = "https://www.google.com/" },
   #   { google-scholar = "https://scholar.google.com/citations?user=user-id" },
   #   { hashnode = "https://username.hashnode.dev" },
-  #   { instagram = "https://instagram.com/username" },
   #   { keybase = "https://keybase.io/username" },
   #   { kickstarter = "https://www.kickstarter.com/profile/username" },
   #   { kofi = "https://ko-fi.com/username" },
