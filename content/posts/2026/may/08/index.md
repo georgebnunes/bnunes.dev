@@ -1,10 +1,11 @@
 ---
 date: '2026-05-08'
-draft: true
-title: "Thoughts and reflections for me on finding a job in the IT market in 2026"
+lastmod: 2026-05-09
+draft: false
+title: "Thoughts and reflections on finding a job in the IT market in 2026"
 description: "Thoughts on finding a job in IT specially in US market remotely working from Brazil"
-summary: "Impostor syndrome is hitting high spikes here. Advices that I am giving to myself, maybe works for you"
-coverAlt: ""
+summary: "Impostor syndrome is hitting high spikes here. Got so rejected! Am I a bad developer?"
+coverAlt: "If you never know failure, you never know success"
 tags: ["remote", "it", "jobs", "recruitment"]
 slug: "thoughts-reflections-finding-jobs-it-market-in-2026"
 ---
@@ -117,3 +118,5 @@ I got to learn those algorithms, build a project that deals with multithreading,
 To be honest, I am tired.
 
 I’ll keep you updated.
+
+Is anyone going through the same thing as me too?
