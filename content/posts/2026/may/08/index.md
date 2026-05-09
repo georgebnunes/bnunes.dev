@@ -1,60 +1,119 @@
 ---
 date: '2026-05-08'
 draft: true
-title: "My honest experience with Felipe Palma's mentorship program."
-description: "My thoughts over the mentorship program of Felipe Palma"
-summary: "No, it wasn't that good. And in summary, I don't recommend it! "
-coverAlt: "Felipe Palma mentorship review"
-tags: ["felipe palma", "mentorship", "review", "honest-review"]
-slug: "felipe-palma-mentorship-review"
+title: "Thoughts and reflections for me on finding a job in the IT market in 2026"
+description: "Thoughts on finding a job in IT specially in US market remotely working from Brazil"
+summary: "Impostor syndrome is hitting high spikes here. Advices that I am giving to myself, maybe works for you"
+coverAlt: ""
+tags: ["remote", "it", "jobs", "recruitment"]
+slug: "thoughts-reflections-finding-jobs-it-market-in-2026"
 ---
 
-## How everything started
+I applied for jobs in the US, and to be honest, I failed most of them. 
 
-Just like any other brazilian, I was planning to expand my IT career and go international but with one condition: stay in living in Brazil.
+I'm still applying and still failing. But that's how it goes... But one thing that is worth mentioning is that I am learning a lot from these recruitment processes.
 
-<mark>Remote opportunities that's what I thought!</mark>
+## Where am I faling?
 
-**Some questions came to my mind like:**
-- Where I can find these jobs? 
-- How can I ace the interviews? 
-
-**What about job platforms? Which one is best?**
-- Linkedin? 
-- Indeed? 
-- Wellfound? 
-- Xing
-
-**Which company size is the best for me?**
-- Startups? 
-- Multinationals
-- Big Techs? 
-
-And last but not least: **what about taxes?**
-
-I definetely was in the need of help. Then, one day, I was scrolling my [Instagram](https://instagram.com/georgebnunes) feed and this ad from Felipe Palma mentorship showed up to me and everything was so aligned with what I was looking for. He said that all of those questions would be answered once I joined the mentorship. 
-
-I took the risk and bought it.
-
-For those who wants to know, and that is a shame for me, <mark>I was charged R$ 12000,00</mark>. Yes! Twelve Thousands brazilian Real! By November, 2025.
-
-**TRUE EXPENSIVE**
-
-I would never pay for something like that! Pay that much for someone you don't know nothing about it? 
-
-Yeah! That is the part I am ashamed of: I didn't even check other programs to compare with that Felipe was offering. I just ran through it! **Paid!**
+- Leet Code
+- Parallel Programming
+- System Design
+- Behavioral interview questions
 
 
-And then the journey has started.
+### Leet Code
+I understand that there are thousands of candidates for one single job, and the recruiters have to submit their candidates through a LeetCode challenge in a way to sort the best ones out. 
 
-## What really happens inside the mentorship?
+And here is where I am falling behind. 
 
-Well there are lots of recorded videos explaining the differences between companies sizes (Startups and Multinationals)
+There are lots of algorithm concepts, like:
+- Two Pointers
+- BFS
+- Graphs
 
-## What really worked out
+I had those a long time ago in college. I got to remember and practice all of them back.
 
-## What went wrong?
+<mark>There is no other way than practice and keep practicing.</mark>
 
-### What about all the successful cases?
+Learn the solution from others; you don't have to be a genius. Copy, learn, debug and review. This will also make you a better developer/engineer.
 
-## Do I bear some of that guilt?
+### Parallel Programming
+All my career I worked developing RESTful APIs  for backends, and most of these APIs were simple POST and GET methods. Simple operations in a database. Sometimes we had to provide some sort of pagination.
+
+I never had the chance to work developing a high-performance system that required parallel programming.
+
+So all the questions are related to:
+- Deadlock
+- Atomic Operations
+- Data race
+- Race conditions
+- Semaphores
+- Lock-free algorithms
+
+I am missing and skipping all of that.
+
+I've been asked questions like:
+- _In Java, what is the difference between a callable and a runnable?_
+
+So, besides all those basic topics above, there are also new related topics, like **CompletableFuture**.
+
+If I want to be a senior professional, I have to go through this.
+
+I asked Claude to help with this. Now he's guiding me through a project that involves all of these topics. I'll be publishing it on my [GitHub](https://github.com/georgebnunes) account.
+
+### System Design
+Now that AI can help us code, we must be able to design better backend services. Specifically, prepare them for failures and unexpected situations.
+
+During interviews, I've been asked things like:
+- _How would you avoid a duplication request being persisted in a database given a distributed system?_
+
+
+I couldn't be able to answer that. But I do believe that is something related to idempotency.
+
+After that, I decided to take classes with a real specialist in this field. Matheus Fidelis works for Itau (a large bank in LATAM), and he is launching a training course only for system design through LinuxTips.
+
+Getting ready for the next 6 months of my life.
+
+
+### Behavioral Interview questions
+
+I believe that my resume is not even going through the ATS.
+
+But some tricky questions that usually show up during interviews are:
+
+- _How do you manage a conflict situation?_
+- _How do you behave when someone disagrees with your idea?_
+- _What was the most challenging project you ever worked on?_
+
+To be honest, I never worked in something challenging. As I said before, I had only CRUD operations over RESTful APIs.
+
+Is there something wrong with that?
+
+
+## What about a mentorship program?
+
+No! Definitely this is NOT THE WAY TO GO!
+
+I’ve been there already, and it was a waste of money and time.
+
+I joined Felipe Palma’s mentorship program for about R$12k in order to get help on these topics, have a nice and clean LinkedIn profile, and have an attractive resume. Not only that, but I also learned a few useful things during the 6-month program. But to be honest, all of that is free on YouTube.
+
+Yes! Twelve thousand Brazilian real!
+
+As you can see, I am not ready.
+
+They said I was ready. What??
+
+{{< instagram DWXM1zDkQl1 >}}
+
+Felipe is a nice guy, but his team didn’t give me too much attention.
+
+
+## Further steps for the next 6 months
+Well, I have to run for it.
+
+I got to learn those algorithms, build a project that deals with multithreading, design a fault-tolerant system, and review my career and reflect on what was challenging or, at least, create some sort of convincing narrative.
+
+To be honest, I am tired.
+
+I’ll keep you updated.
