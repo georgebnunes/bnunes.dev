@@ -1,20 +1,9 @@
 ---
 date: '2026-05-12'
-draft: true
+draft: false
 title: 'About'
 ---
 
-## How started
-It all started in 2010 when I attended a vocational school with subjects related to software development. I learned C/C++, Java, PHP, MySQL, and some basic HTML/CSS and Javascript. It also had some subjects like UML and entrepreneurship.
+I am a software engineer that is passionate about RESTful APIs. I feel confident developing integrations using Java + Spring Boot and Go.
 
-I developed lot of cool projects, but none of them were commercial like, they were most _proof of concepts_ and I lost them. I had no version control experience back then.
-
-## Early professional years (2013-2017)
-
-
-## How is it going (2021 - Present)
-
-## Where to go? (2030)
-
-
-### Master Degree??
+I understand that API development is not only about following the RESTful standards; nowadays it also includes resilience, monitoring, security, access control, rate limiting, and much more. I like to bring to discussion all of these topics when designing an API.
