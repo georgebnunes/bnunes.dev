@@ -14,14 +14,23 @@ I understand that API development is not only about following the RESTful standa
 ## Professional Experience
 For more details about the companies and projects I developed, there is a link for download right <a href="/resume2026.pdf" download target="_blank" rel="noopener noreferrer">here</a>.
 
-But to be brief, I started back in 2013 as an intern for Lenovo, worked there for 6 months, and then was hired as a software engineer for a small company (which does not exist anymore) called Domma TI. This last one I worked on from 2014 to 2016, developing Java enterprise projects.
+But to be brief, I started in 2013 working with LAMP stack. Back then, I had to be a fullstack developer, from designing database table relations to deploy projects on premises.
 
-In 2017 I joined Samsung as a junior system analyst and worked there for almost 3 years. I left in November 2019.
+I kept working as a fullstack developer from 2013 until 2020. Working accros many programming languages such as PHP and Java, for companies like Lenovo and Samsung.
 
-After that, I had a huge change in my life as I left my hometown, Manaus, for Florianópolis. I worked for a company called Zallpy for about 3 months, just because I received a better offer in another city called Curitiba.
+The projects I developed there are now legacy projects and due to some contract constrains, I don't own their code.
 
-In 2020, I started my life in Curitiba, where I live now. I joined Wipro in a Mastercard project. I left 4 months later because I felt my team wasn’t able to help me onboard. I felt anxious and left alone, so I decided to quit.
+In 2020, my life had a big personal change as I moved from my hometown Manaus to Curitiba. 
 
-I worked as a freelancer for a few other months and in September 2020 joined Matera, where I learned a lot of technical things! To be honest, I am really grateful to my colleagues, leaders, and managers.
+I started working on modern projects. I leaned more to backend development with Java and Spring Boot. I it has been my stack since then. I also started deploying things on AWS. So lots of other cool technical stuff came in like CI/CD for example.
 
-One year later, in 2021, I joined Rede. That was acquired by Itau Unibanco a few months later, and it is where I am working right now.
+Now I am working for Rede (an Itau Unibanco company). 
+
+I am learning and building a portfolio in Go.
+
+## Goals
+
+- Start working remotely for a company in Europe or USA by June 2027
+- Get Kubernetes certified by the end of 2027
+- **Become a Staff Engineer by the end of 2028**
+
