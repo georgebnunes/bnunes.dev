@@ -17,3 +17,8 @@ We were in doubt whether we should go and build one or just take one ready to us
 
 In the end, we pick a SaaS named Supabase.
 
+# Why not use Auth.js
+
+Our frontend application was developed in Next.js and of course we could use Auth.js to help us to add social login and integrate with providers like Google and Apple. But what happened was, at some point in the documentation of Auth.js we saw that a database was necessary in order to implement it with Next.js and there we found a problem: we don't have a database server ready to use. We don't have enough budget to run and keep running an EC2 instance in AWS with a database server or pay for an RDS instance. 
+
+Using Auth.js, would become an expensive implementation for our MVP app
